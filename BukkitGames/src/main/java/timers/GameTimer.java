@@ -46,7 +46,7 @@ public class GameTimer {
 							
 							BGMain.WORLDRADIUS = BGMain.WORLDRADIUS - shrink_size;
 							BGMain.BORDERS.put(BorderType.SHRINK, new Border(BGMain.spawn.getX(), BGMain.spawn.getZ(), BGMain.WORLDRADIUS - 5));
-							BGChat.printInfoChat("World-border will shrink " + shrink_size + " blocks in one minute!");
+							BGChat.printInfoChat("Forcefield ativado em " + shrink_size + " blocos em um minuto!");
 						}
 					} else {
 						BGMain.BORDERS.remove(BorderType.STOP);
@@ -54,7 +54,7 @@ public class GameTimer {
 						BGMain.BORDERS.put(BorderType.STOP, BGMain.BORDERS.get(BorderType.SHRINK));
 						BGMain.BORDERS.put(BorderType.WARN, new Border(BGMain.spawn.getX(), BGMain.spawn.getZ(), BGMain.WORLDRADIUS - 10));
 						BGMain.BORDERS.remove(BorderType.SHRINK);
-						BGChat.printInfoChat("World-border shrinked!");
+						BGChat.printInfoChat("Forcefield ativado aqui!");
 					}
 					
 				}
