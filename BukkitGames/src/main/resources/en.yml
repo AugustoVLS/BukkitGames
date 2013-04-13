@@ -1,9 +1,9 @@
 # !!! Do NOT change anything here! Changes will be overridden! !!!
 
 NO_PERMISSION: You don't have permission to do that!
-GAME_BEGUN: The game has already begun!
+GAME_BEGUN: O jogo ja começou!
 CMD_ONLY_PLAYER_ACCESS: This command can only be accessed by players.
-TELEPORTED_SPAWN: You have been teleported to spawn.
+TELEPORTED_SPAWN: Você foi teletransportado para o spawn.
 PLAYER_NOT_ONLINE: Player is currently not online.
 TEAM_FUNC_ADDED_PLAYER: Added player to your team.
 TEAM_FUNC_PLAYER_ALREADY_TEAM: That player is already in your Team!
@@ -26,7 +26,7 @@ REWARD_FUNC_CMDS: /coin buy <kit>, /coin send <player> <amount>, /coin give <pla
 REWARD_FUNC_NOT_ALLOWED: You are not allowed to buy this kit.
 REWARD_FUNC_ALL_KITS: You can already access all kits.
 REWARD_FUNC_ALREADY_BOUGHT: You already own this kit.
-KIT_NOT_EXIST: This kit doesn't exist.
+KIT_NOT_EXIST: Este kit não existe
 REWARD_FUNC_KIT_NO_BUY: You can't buy this kit.
 REWARD_FUNC_BOUGHT_KIT: You have bought <kit>!
 REWARD_FUNC_NOT_ENOUGH_COINS: You don't have enough coins to buy that kit.
@@ -35,7 +35,7 @@ REWARD_FUNC_SUCCESS_COIN_SENT: Successfully sent coins to the player.
 REWARD_FUNC_SUCCESS_COIN_RECEIVED: You have received some coins!
 REWARD_FUNC_SUCCESS_TRANSACTION: Transaction successful.
 REWARD_FUNC_STATS: Player <player> has <coins> coins.
-COMPASS_TRACK: 'Tracking player <player>. Distance: <distance>'
+COMPASS_TRACK: 'Procurando: <player>. Está à: <distance> blocos de você'
 COMPASS_NOT_TRACK: No target found. Compass points to spawn.
 BLOCK_DESTROY_NOT_ALLOWS: You are not allowed to destroy this block.
 SPECTATORS_CHAT_NOT_ALLOWS: Spectators are not allowed to chat.
@@ -44,8 +44,8 @@ SPECTATOR_IN_THE_WAY: Sorry, you were in the way!
 MAY_ODDS_BE_IN_YOUR_FAVOR: May the odds be ever in your favour.
 GAMES_HAVE_BEGUN: The games have begun!
 INVINCIBLE_FOR: Everyone is invincible for <time>.
-NOW_GAMEMAKER: You are now a Gamemaker.
-NOW_SPECTATOR: You are now a Spectator.
-HEADSHOT_DEATH: <victom> was headshotted by <player>.
-PLAYERS_REMAIN: <amount> players remaining.
+NOW_GAMEMAKER: Você é um GameMarker.
+NOW_SPECTATOR: Você é um espectador.
+HEADSHOT_DEATH: <victom> levou um headshot de <player>.
+PLAYERS_REMAIN: <amount> players restantes.
 HEADSHOT: Headshot!
